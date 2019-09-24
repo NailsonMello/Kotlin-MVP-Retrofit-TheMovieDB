@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">TheMovieDB</string>
+    <string name="img_name">https://image.tmdb.org/t/p/w500</string>
+    <string name="language">pt-br</string>
+    <string name="sort_by">popularity.desc</string>
+
+    <string name="search">Search</string>
+    <string name="description">Descrição</string>
+    <string name="title">title</string>
+    <string name="poster_path">poster_path</string>
+    <string name="overview">overview</string>
+
+    <string name="api_key">API_KEY</string>
+    <string name="Pesquisar">Pesquisar...</string>
+    <string name="titleMain">Movie</string>
+    <string name="carregando">Carregando...</string>
+
+
+</resources>
